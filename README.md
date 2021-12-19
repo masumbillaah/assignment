@@ -1,6 +1,6 @@
 # Project name and live site link
-
-Wivo client side live link [Wivo](https://wivo-4bda2.web.app/).
+Mi Store
+Wivo client side live link [Wivo](https://assignment-bc719.web.app/).
 
 # Functionalities and used cases of the website
 
@@ -27,4 +27,4 @@ Wivo client side live link [Wivo](https://wivo-4bda2.web.app/).
 # Technologies that were used to build the site
 
 - HTML . CSS . JavaScript . Material ui . React.js . Firebase . React Router Dom . React Icons .
-# assignment
+
