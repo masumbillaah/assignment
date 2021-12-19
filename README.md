@@ -1,7 +1,7 @@
 # Project name and live site link
-Mi Store client side live link
+Mi Store client site live link
 :
- [https://assignment-bc719.web.app/](https://assignment-bc719.web.app/).
+ [https://assignment-bc719.web.app/](https://assignment-bc719.web.app/)
 
 # Functionalities and used cases of the website
 
