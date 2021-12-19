@@ -1,6 +1,7 @@
 # Project name and live site link
-Mi Store
-Wivo client side live link [Wivo](https://assignment-bc719.web.app/).
+Mi Store client side live link
+:
+ [https://assignment-bc719.web.app/](https://assignment-bc719.web.app/).
 
 # Functionalities and used cases of the website
 
